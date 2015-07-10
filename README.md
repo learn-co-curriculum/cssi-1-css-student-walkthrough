@@ -15,7 +15,7 @@ resources:
 * Right click on it and select "Inspect Element". You should see a whole bunch of HTML
 * In the html `<head>` tag, you should see either a `<style>` tag or something like `link rel="stylesheet" type="text/css" href="mystyle.css">`. Delete that and watch what happens.
 
-CSS is the "styling" for HTML pages. Think of HTML being like your body, and CSS being the clothes. Your clothes (CSS) make your body (HTML) look good. And with your clothes (CSS) your body (HTML) would look pretty naked. 
+CSS is the "styling" for HTML pages. Think of HTML being like your body, and CSS being the clothes. Your clothes (CSS) make your body (HTML) look good. And without your clothes (CSS) your body (HTML) would look pretty naked. 
 
 
 ####Code-Along-Setup
