@@ -1,9 +1,4 @@
----
-tags:
-level:
-languages:
-resources:
----
+
 
 # CSSI Intro to CSS Walkthrough
 
