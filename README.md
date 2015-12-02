@@ -196,3 +196,5 @@ Use <div> tags and play around with [box model](http://guyroutledge.github.io/bo
 ## Resources
 
 * [W3 Schools- CSS ](http://www.w3schools.com/css)
+
+<a href='https://learn.co/lessons/cssi-1-css-student-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
